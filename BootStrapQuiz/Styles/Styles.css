@@ -1,0 +1,22 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+.pC {
+    font-size: xx-large;
+    width: 500px;
+    float: right;    
+   border: 2px solid; 
+}
+.dogImg {
+    height: 400px;
+    width: 650px;
+    float: right;
+   margin-right: 50px;
+   
+   
+}
